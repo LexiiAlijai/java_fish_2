@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/java_fish
+    username: sys_admin
+    password: admin
